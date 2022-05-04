@@ -1,0 +1,13 @@
+{
+  "name": "teststate-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.0.3"
+  },
+  "devDependencies": {
+    "ts-jest": "^28.0.1",
+    "typescript": "^4.6.4"
+  }
+}
